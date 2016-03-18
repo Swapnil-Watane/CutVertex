@@ -8,4 +8,4 @@ below format:
 
 Graph116-1 2 3 6-2 4 7...0
 
-<graphname><#nodes><-node><adjcent nodes> .....  0
+\<graphname\>\<#nodes\>\<-node\>\<adjcent nodes\> .....  0
